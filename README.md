@@ -1,2 +1,1 @@
-# Emotion-Detection-system
-Face emotion detection
+# FACE_EMOTION
